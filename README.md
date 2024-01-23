@@ -4,9 +4,7 @@ I am thrilled to share the successful completion of the XAM Assessment Exam proj
 
 Over the course of 21 hours, I worked diligently to align every element with the web color palettes, fonts, and overall design aesthetics of the XAM Consulting site. This commitment to detail ensures a cohesive and visually engaging user experience, maintaining consistency with the esteemed brand.
 
-Recognizing the significance of accessibility, I extended my efforts to create a responsive mobile version of the exam. This development not only ensures functionality but also guarantees that user can seamlessly engage with the assessment across various devices, further enhancing the reach and impact of the exam.
-
-The natural flow of creativity, coupled with a keen eye for design principles, defined the development process. By investing 21 hours of focused effort, I aimed to create an exam environment that not only meets but exceeds expectations. The result is a testament to the fusion of technical proficiency with an intuitive understanding of design principles.
+Recognizing the significance of accessibility, I extended my efforts to create a responsive mobile version of the website. This development not only ensures functionality but also guarantees that user can seamlessly engage across various devices.
 
 Please see below some website recommendations:
 
