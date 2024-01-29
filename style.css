@@ -308,7 +308,7 @@ a {
   width: 100%;
   text-align: left;
   font-size: 4rem;
-  font-weight: normal;
+  font-weight: 550;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   background-image: linear-gradient(
